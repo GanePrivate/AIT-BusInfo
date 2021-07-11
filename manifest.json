@@ -1,0 +1,27 @@
+{
+    "name": "愛工大バス時刻案内",
+    "short_name": "BusInfo",
+    "description": "PWAのテスト",
+    "start_url": "https://ogane.sakura.ne.jp/AIT-BusInfo/index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#000000",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "static/images/icon128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "static/images/icon256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "static/images/icon512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
