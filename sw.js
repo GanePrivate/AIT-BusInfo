@@ -6,7 +6,6 @@ const STATIC_DATA = [
     '/AIT-BusInfo/index.html',
     '/AIT-BusInfo/nobus.html',
     '/AIT-BusInfo/static/css/font-awesome.min.css',
-    // '/AIT-BusInfo/static/css/main.css',
     '/AIT-BusInfo/static/css/noscript.css',
     '/AIT-BusInfo/static/css/images/overlay.png',
     '/AIT-BusInfo/static/images/bus.png',
@@ -22,8 +21,7 @@ const STATIC_DATA = [
     '/AIT-BusInfo/static/js/main.js',
     '/AIT-BusInfo/static/js/util.js',
     '/AIT-BusInfo/manifest.json',
-    // '/AIT-BusInfo/sw.js',
-    '/AIT-BusInfo/static/js/jsonParse.js?20210408'
+    '/AIT-BusInfo/static/js/timetable.js?20210712'
 ];
 
 // Service Worker へファイルをインストール
