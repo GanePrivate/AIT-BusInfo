@@ -1,13 +1,3 @@
-<style type="text/css">
-h2 {
-  color: #364e96;/*文字色*/
-  padding: 0.5em 0;/*上下の余白*/
-  border-top: solid 3px #364e96;/*上線*/
-  border-bottom: solid 3px #364e96;/*下線*/
-}
-</style>
-
-
 # <p style="text-align: center">インターン 自作Webアプリ 簡易仕様</p>
 </br>
 
