@@ -5,7 +5,7 @@
 ## アプリ名
 **愛工大バス時刻案内**  
 
-- [こちらのページで公開しています](https://ogane.sakura.ne.jp/AIT-BusInfo/index.html)
+- [こちらのページで公開しています](https://ogane.sakura.ne.jp/AIT-BusInfo/)
 </br></br>
 
 
@@ -99,6 +99,22 @@ Webアプリではありますが、PWA(プログレッシブウェブアプリ)
 
 <a href="example/Reason2.jpg" style="display: flex; justify-content: center; align-items: center;">
 	<img src="example/Reason2.jpg" alt="制作経緯" width="70%" height="70%">
+</a>
+</br></br>
+
+
+## こだわりポイント / アピールポイント
+### こだわったポイント
+PWAに対応させたことで、ネイティブアプリのようにインストールして使用することを可能にしています。
+これにより、毎回ブラウザを開いて検索したりブックマークから開くという手間が減り、ユーザビリティを向上させています。
+
+### アピールしたいポイント
+今回作成したWebアプリはすでにインターネット上で公開しており、アクティブユーザーは日平均では約145人、月平均では1378人となっています。  
+
+#### URL： [https://ogane.sakura.ne.jp/AIT-BusInfo/](https://ogane.sakura.ne.jp/AIT-BusInfo/)
+
+<a href="example/summary.jpg" style="display: flex; justify-content: center; align-items: center;">
+	<img src="example/summary.jpg" alt="制作経緯" width="90%" height="90%">
 </a>
 </br></br>
 
